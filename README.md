@@ -26,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulck001&show_icons=true&locale=en" alt="mridulck001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulck001&" alt="mridulck001" /></p>
+<div>
+</br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://mridulck001.github.io/">
-    <!-- Dark Mode Image -->
-    <img src="dark.svg#gh-dark-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
-    <!-- Light Mode Image -->
-    <img src="white.svg#gh-light-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
-  </a>
-</div>
-<div align="center">
 
 ```
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
@@ -18,6 +9,15 @@
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+Backend+Developer;Building+Intelligent%2C+Scalable+Systems;On-Device+ML+%7C+NLP+%7C+Computer+Vision;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+<div align="center">
+  <a href="https://mridulck001.github.io/">
+    <!-- Dark Mode Image -->
+    <img src="dark.svg#gh-dark-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
+    <!-- Light Mode Image -->
+    <img src="white.svg#gh-light-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
+  </a>
+</div>
+<div align="center">
 
 <br/>
 

@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://mridulck001.github.io/">
+    <!-- Dark Mode Image -->
+    <img src="dark.svg#gh-dark-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
+    <!-- Light Mode Image -->
+    <img src="white.svg#gh-light-mode-only" alt="Mridul's GitHub Profile Header" width="100%" />
+  </a>
+</div>
+<div align="center">
 
 ```
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
